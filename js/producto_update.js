@@ -9,7 +9,7 @@ const { createApp } = Vue
         nombre:"",
         imagen:"",
         descripcion:"",
-        url:'http://martinmora.pythonanywhere.com/productos/'+id,
+        url:'https://martinmora.pythonanywhere.com/productos/'+id,
        }  
     },
     methods: {
